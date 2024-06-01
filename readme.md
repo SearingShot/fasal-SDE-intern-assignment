@@ -1,4 +1,3 @@
-```markdown
 # Movie Library Web Application
 
 This is a web application for managing a movie library. Users can sign up, log in, search for movies using the OMDB API, and create lists of their favorite movies. These lists can be either public or private.
@@ -82,19 +81,17 @@ const OMDB_API_URL = `https://www.omdbapi.com/?apikey=${OMDB_API_KEY}&s=`;
 ## Screenshots
 
 **Login Page**:
-![Login Page](screenshots/login.png)
+![Login Page](https://github.com/SearingShot/fasal-SDE-intern-assignment/assets/121299642/9667e9b8-ba03-49f3-b9fc-c572092d5947)
 
 **Sign Up Page**:
-![Sign Up Page](screenshots/signup.png)
+![Sign Up Page](https://github.com/SearingShot/fasal-SDE-intern-assignment/assets/121299642/c762e021-79ce-44fa-aa23-12ddbf8bc77d)
 
 **Home Page**:
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/SearingShot/fasal-SDE-intern-assignment/assets/121299642/fdc29e67-4924-43a6-87e4-143f6f98639e)
 
 **Search Results**:
-![Search Results](screenshots/search-results.png)
+![Search Results](https://github.com/SearingShot/fasal-SDE-intern-assignment/assets/121299642/b13a1574-5daf-4cd6-849e-a2e8ceccf7e6)
 
-**Movie List**:
-![Movie List](screenshots/movie-list.png)
 
 **Live Website Link**
 https://movie-library-webapp.netlify.app/
